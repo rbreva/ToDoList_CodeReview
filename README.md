@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # To Do list: list structure
-To Do list: list structure
+To Do list: list structure - Code Review
 
 ## Built With
 
